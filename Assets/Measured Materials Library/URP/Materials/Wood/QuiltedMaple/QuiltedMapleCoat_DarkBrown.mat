@@ -33,7 +33,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 197a9ff1e9a648542b002ea8a5697d31, type: 3}
+        m_Texture: {fileID: 2800000, guid: 56f6eaba017557242b098e747a22582f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -53,7 +53,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: c8961b80db5430d42a8aff9408eebaa8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 605ced7f484768043bfa902e80c9cbb7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -101,7 +101,7 @@ Material:
     - Color_CAC24FB8: {r: 1, g: 1, b: 1, a: 0}
     - Vector2_47194E49: {r: 2, g: 2, b: 0, a: 0}
     - Vector2_DC4B087F: {r: 0, g: 0, b: 0, a: 0}
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 0.34901962, g: 0.34901962, b: 0.39215687, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
