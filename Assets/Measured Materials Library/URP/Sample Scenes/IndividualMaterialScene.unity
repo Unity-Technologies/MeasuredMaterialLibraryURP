@@ -516,7 +516,6 @@ MonoBehaviour:
   m_RequiresDepthTextureOption: 2
   m_RequiresOpaqueTextureOption: 2
   m_CameraType: 0
-  m_CameraOutput: 0
   m_Cameras: []
   m_RendererIndex: -1
   m_VolumeLayerMask:
@@ -528,6 +527,7 @@ MonoBehaviour:
   m_AntialiasingQuality: 2
   m_StopNaN: 0
   m_Dithering: 0
+  m_ClearDepth: 1
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
@@ -538,26 +538,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 947805581076350541}
     m_Modifications:
-    - target: {fileID: 8608065202623123413, guid: 18c41c847b56a274dbec42e65e567a4b,
-        type: 3}
-      propertyPath: m_Name
-      value: UnityBall
-      objectReference: {fileID: 0}
-    - target: {fileID: 8608065202623123413, guid: 18c41c847b56a274dbec42e65e567a4b,
-        type: 3}
-      propertyPath: m_TagString
-      value: UnityBall
-      objectReference: {fileID: 0}
-    - target: {fileID: 8608065202623123413, guid: 18c41c847b56a274dbec42e65e567a4b,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8608065202623123413, guid: 18c41c847b56a274dbec42e65e567a4b,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 4506560392912112378, guid: 18c41c847b56a274dbec42e65e567a4b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -638,11 +618,6 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6359566245650224156, guid: 18c41c847b56a274dbec42e65e567a4b,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6043960529905004856, guid: 18c41c847b56a274dbec42e65e567a4b,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -658,6 +633,31 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[3]
       value: 
       objectReference: {fileID: 2100000, guid: d272608f2c433194ea514c15f89acbd2, type: 2}
+    - target: {fileID: 6359566245650224156, guid: 18c41c847b56a274dbec42e65e567a4b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8608065202623123413, guid: 18c41c847b56a274dbec42e65e567a4b,
+        type: 3}
+      propertyPath: m_Name
+      value: UnityBall
+      objectReference: {fileID: 0}
+    - target: {fileID: 8608065202623123413, guid: 18c41c847b56a274dbec42e65e567a4b,
+        type: 3}
+      propertyPath: m_TagString
+      value: UnityBall
+      objectReference: {fileID: 0}
+    - target: {fileID: 8608065202623123413, guid: 18c41c847b56a274dbec42e65e567a4b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8608065202623123413, guid: 18c41c847b56a274dbec42e65e567a4b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18c41c847b56a274dbec42e65e567a4b, type: 3}
 --- !u!4 &498450282 stripped
