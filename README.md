@@ -7,3 +7,5 @@ Open it with Unity 2019.3.0a6 or higher and optionally you can upgrade URP (form
 
 Go to Assets/Measured Materials Library/URP/Sample Scenes/ and open AllMaterialsScene.
 
+## Last know working version
+Verified in Unity 2019.3.14f1 using URP 7.3.1.
